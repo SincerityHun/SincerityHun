@@ -1,4 +1,6 @@
 # 정성훈(Jung Seonghun)
+
+### Who am I
 - 🌱 I'm currently majoring in Computer Science at [Sunkyunkwan University](https://sw.skku.edu/eng_sw/index.do)
 
 - 🔭 I am currently researching large-scale multi-tenant GPU clusters for distributed machine learning and GPU scheduling in Kubernetes clusters as an undergraduate researcher in the [Computer Systems Lab](http://csl.skku.edu/)

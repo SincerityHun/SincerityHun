@@ -3,9 +3,9 @@
 ### Who am I
 - 🌱 I'm currently majoring in Computer Science at [Sunkyunkwan University](https://sw.skku.edu/eng_sw/index.do)
 
-- 🔭 I am currently researching large-scale multi-tenant GPU clusters for distributed machine learning and GPU scheduling in Kubernetes clusters as an undergraduate researcher in the [Computer Systems Lab](http://csl.skku.edu/)
+- 🔭 I'm currently researching large-scale multi-tenant GPU clusters for distributed machine learning and GPU scheduling in Kubernetes clusters as an undergraduate researcher in the [Computer Systems Lab](http://csl.skku.edu/)
 
-- 🤔 I am interested in the [tools and knowledge](https://github.com/SincerityHun/Deep_Plant1_Final) necessary to build CI/CD pipelines and reliable backend cloud servers for services. 
+- 🤔 I'm currently interested in the [tools and knowledge](https://github.com/SincerityHun/Deep_Plant1_Final) necessary to build CI/CD pipelines and reliable backend cloud servers for services. 
 
 
 

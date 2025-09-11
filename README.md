@@ -1,8 +1,5 @@
 # 정성훈(Jung Seonghun)
 
-### Who am I
-- 🌱 I'm currently majoring in Computer Science at [Sunkyunkwan University](https://sw.skku.edu/eng_sw/index.do)
-
 
 ### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SincerityHun)](https://github.com/SincerityHun)

@@ -1,9 +1,9 @@
-# 정성훈(Jung Seonghun)
+# 정성훈(Seonghun Jung)
 
-
+<!--
 ### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SincerityHun)](https://github.com/SincerityHun)
-<!--
+
 **SincerityHun/SincerityHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
